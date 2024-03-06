@@ -1,0 +1,16 @@
+2024-01-24 14:42:27.687000 - Mouse clicked at (994, 450) with Button.left
+2024-01-24 14:42:28.753041 - Key pressed: s
+2024-01-24 14:42:28.755036 - Key pressed: d
+2024-01-24 14:42:28.863572 - Key pressed: d
+2024-01-24 14:42:28.871083 - Key pressed: s
+2024-01-24 14:42:29.006886 - Key pressed: d
+2024-01-24 14:42:29.171793 - Key pressed: d
+2024-01-24 14:42:29.337261 - Key pressed: d
+2024-01-24 14:42:29.494102 - Key pressed: d
+2024-01-24 14:42:29.636069 - Key pressed: d
+2024-01-24 14:42:29.778952 - Key pressed: d
+2024-01-24 14:42:29.921892 - Key pressed: d
+2024-01-24 14:42:30.086925 - Key pressed: d
+2024-01-24 14:42:30.258499 - Key pressed: d
+2024-01-24 14:42:30.402147 - Key pressed: d
+2024-01-24 14:42:30.658088 - Mouse clicked at (1044, 617) with Button.left
